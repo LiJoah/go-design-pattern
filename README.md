@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GO-Design-Pattern
 &emsp;&emsp;用Go把设计模式实现一遍。构建一个知识库。<br>
 &emsp;&emsp;虽然网上有《Go Patterns》,不过是英文版的，并且不全，我就想把它翻译成中文的，并且补全。<br>
@@ -16,3 +17,6 @@
 ## 提交说明
 * 作者们自己新建一个分支
 * 代码必须是go
+=======
+# go-design-pattern
+>>>>>>> f3692372cb10d2dc3ba4e8e3a82af065f4e24fee
